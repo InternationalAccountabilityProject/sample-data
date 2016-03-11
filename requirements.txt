@@ -1,3 +1,9 @@
+jsonref==0.1
 jsonschema==2.5.1
+ocdsmerge==0.3
+requests==2.9.1
+requests-mock==0.7.0
+six==1.10.0
+
 ocdsmerge
 -e git://github.com/open-contracting/jsonmerge.git@7d1506cef4a6de534ff6ebfaa4a412ffee771630#egg=jsonmerge
