@@ -1,0 +1,19 @@
+"tender": {
+    "participationFees": [
+      {
+          "type":"document",
+          "value": {
+               "currency":"GBP",
+               "amount":8.00,
+               "description":"Fee payable for both soft and hard copies of documents. "
+
+           } 
+      {
+          "type":"submission",
+          "value": {
+               "currency":"GBP",
+               "amount":10.00,
+               "description":"Fee payable within e-procurement system."
+           } 
+    ]
+}
